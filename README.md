@@ -26,7 +26,7 @@ To use this notebook, follow these steps:
 1. **Clone the repository** (if applicable) or simply open the Google Colab notebook linked above.
 2. **Install dependencies**: The notebook installs the required dependencies within the environment. Run the following cell at the start of the notebook to install the necessary packages:
    ```python
-   !pip install tensorflow numpy matplotlib scikit-learn opencv-python
+   !pip install tensorflow keras
    ```
 
 3. **Download the Dataset**: The project uses the **Plant Seedlings Classification** dataset, which can be downloaded from [Kaggle](https://www.kaggle.com/c/plant-seedlings-classification). You can upload it directly to your Google Colab environment or use the Kaggle API to download the dataset.
